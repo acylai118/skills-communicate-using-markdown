@@ -8,3 +8,8 @@
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
+
+## Code Sample
+
+```python
+print("Hello, GitHub!")
